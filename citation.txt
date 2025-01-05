@@ -1,0 +1,11 @@
+@article{REPO123,
+    author = "Song, Xibin and Li, Wei and Zhou, Dingfu and Dai, Yuchao and Fang, Jin and Li, Hongdong and Zhang, Liangjun",
+    doi = "10.1109/TIP.2021.3074306",
+    journal = "IEEE Transactions on Image Processing",
+    keywords = "Estimation;Training data;Feature extraction;Cameras;Benchmark testing;Sensors;Image sensors;Depth estimation;self-supervised;dual-attention;feature fusion",
+    number = "",
+    pages = "4691-4705",
+    title = "{MLDA-Net: Multi-Level Dual Attention-Based Network for Self-Supervised Monocular Depth Estimation}",
+    volume = "30",
+    year = "2021"
+}
